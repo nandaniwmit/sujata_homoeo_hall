@@ -1,0 +1,6 @@
+{
+  "name": "Sujata Homoeo Hall",
+  "description": "Your Trusted Medical Store in Gaya, Bihar for Genuine Homoeopathic & Allopathic Medicines, Surgical Supplies, and Healthcare Needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
